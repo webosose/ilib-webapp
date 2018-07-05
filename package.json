@@ -19,13 +19,7 @@
     "homepage": "http://sourceforge.net/p/i18nlib/",
     "bugs": "https://sourceforge.net/p/i18nlib/tickets/new/",
     "email": "marketing@jedlsoft.com",
-    "license": "apache2",
-    "licenses": [
-        {
-            "type": "apache2",
-            "url": "http://www.apache.org/licenses/LICENSE-2.0"
-        }
-    ],
+    "license": "Apache-2.0",
     "author": {
     	"name": "Edwin Hoogerbeets",
     	"web": "http://www.jedlsoft.com/",
