@@ -1,7 +1,7 @@
 {
     "name": "ilib",
-    "version": "12.0.002",
-    "main": "lib/ilib-node.js",
+    "version": "14.2.0",
+    "main": "index.js",
     "description": "iLib is a cross-engine library of internationalization (i18n) classes written in pure JS",
     "keywords": [
         "internationalization", 
@@ -16,38 +16,59 @@
         "locale",
         "translation"
     ],
-    "homepage": "http://sourceforge.net/p/i18nlib/",
-    "bugs": "https://sourceforge.net/p/i18nlib/tickets/new/",
-    "email": "marketing@jedlsoft.com",
+    "homepage": "https://github.com/iLib-js/iLib",
+    "bugs": "https://github.com/iLib-js/iLib/issues",
+    "email": "marketing@translationcircle.com",
     "license": "Apache-2.0",
+    "licenses": [
+        {
+            "type": "apache2",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
     "author": {
-    	"name": "Edwin Hoogerbeets",
-    	"web": "http://www.jedlsoft.com/",
-    	"email": "edwin@translationcircle.com"
+        "name": "Edwin Hoogerbeets",
+        "web": "http://www.translationcircle.com/",
+        "email": "edwin@translationcircle.com"
     },
     "contributors": [
         {
             "name": "Edwin Hoogerbeets",
             "email": "ehoogerbeets@gmail.com" 
-        } 
+        },
+        {
+            "name": "Goun Lee",
+            "email": "goun.lee@lge.com"
+        },
+        {
+            "name": "Syeonghyup Park",
+            "email": "seonghyup.park@lge.com"
+        }
     ],
     "files": [
         "lib",
         "locale",
-        "README.md"
+        "README.md",
+        "index.js"
     ],
     "repository": {
-        "type": "svn",
-        "url": "svn://svn.code.sf.net/p/i18nlib/code/trunk"
+        "type": "git",
+        "url": "git@github.com:iLib-js/iLib.git"
     },
     "repositories": [
         {
-            "type": "svn",
-            "url": "svn://svn.code.sf.net/p/i18nlib/code/trunk"
+            "type": "git",
+            "url": "git@github.com:iLib-js/iLib.git"
         }
     ],
     "engines": {
         "ringojs": ">=0.9",
-        "nodejs": "<= 0.10.*"
-    }
+        "nodejs": ">= 0.10"
+    },
+    "scripts": {
+       "test": "ant test"
+    },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
 }
