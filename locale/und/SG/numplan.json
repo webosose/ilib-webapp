@@ -1,1 +1,1 @@
-{"region":"SG","skipTrunk":false,"trunkCode":"0","iddCode":"00","dialingPlan":"closed","findExtensions":false,"commonFormatChars":" ()-/","fieldLengths":{"mobilePrefix":-2,"serviceCode":0,"premium":0,"minLocalLength":8,"emergency":0}}
+{"region":"SG","countryCode":"65","iddCode":"0[0-3]\\d","skipTrunk":false,"dialingPlan":"closed","commonFormatChars":" ","fieldLengths":{"areaCode":0,"cic":0,"vsc":0,"mobilePrefix":0,"serviceCode":0,"personal":0,"minLocalLength":0,"maxLocalLength":8,"emergency":0,"special":0}}
