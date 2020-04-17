@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"“","quotationEnd":"”"},"numfmt":{"decimalChar":".","groupChar":",","currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"}},"locale":"es-419"}
+{"delimiter":{"quotationStart":"“","quotationEnd":"”","alternateQuotationStart":"‘","alternateQuotationEnd":"’"},"numfmt":{"decimalChar":".","groupChar":",","currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"}},"locale":"es-419"}
