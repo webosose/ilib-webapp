@@ -1,5 +1,4 @@
 Open Source Software Package:
 - name: webOSOSE-ilib-webapp
-  version: 14.6.0
   source: https://github.com/webosose/ilib-webapp
   license: Apache-2.0
