@@ -1,1 +1,1 @@
-{"numfmt":{"script":"arabext","decimalChar":"/","groupChar":"٫","pctChar":"%","exponential":"×۱۰^","currencyFormats":{"common":"{n} ؜{s}","commonNegative":"؜{n}- ؜{s}"},"negativenumFmt":"‎−{n}","negativepctFmt":"‪-{n} %","pctFmt":"‪{n} %","digits":"۰۱۲۳۴۵۶۷۸۹","useNative":true},"locale":"fa-AF"}
+{"numfmt":{"currencyFormats":{"common":"{n} ؜{s}","commonNegative":"؜{n}- ؜{s}"},"decimalChar":"/","groupChar":"٫","pctChar":"%","exponential":"×۱۰^","negativenumFmt":"‎−{n}","negativepctFmt":"‪-{n} %","pctFmt":"‪{n} %"},"locale":"fa-AF"}
