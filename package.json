@@ -1,6 +1,6 @@
 {
     "name": "ilib",
-    "version": "14.10.0",
+    "version": "14.11.1",
     "main": "index.js",
     "description": "iLib is a cross-engine library of internationalization (i18n) classes written in pure JS",
     "keywords": [
@@ -28,7 +28,7 @@
     "contributors": [
         {
             "name": "Edwin Hoogerbeets",
-            "email": "ehoogerbeets@gmail.com" 
+            "email": "ehoogerbeets@gmail.com"
         },
         {
             "name": "Goun Lee",
