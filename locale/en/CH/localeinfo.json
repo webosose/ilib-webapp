@@ -1,1 +1,1 @@
-{"clock":"24","numfmt":{"groupChar":"’","currencyFormats":{"common":"{s} {n}","commonNegative":"{s}-{n}"}},"locale":"en-CH"}
+{"numfmt":{"groupChar":"’","currencyFormats":{"common":"{s} {n}","commonNegative":"{s}-{n}"}},"locale":"en-CH"}
