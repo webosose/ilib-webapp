@@ -1,1 +1,1 @@
-{"delimiter":{"alternateQuotationStart":"‹","alternateQuotationEnd":"›"},"numfmt":{"pctFmt":"{n}%","negativepctFmt":"-{n}%"},"locale":"fr-CH"}
+{"delimiter":{"alternateQuotationEnd":"›","alternateQuotationStart":"‹"},"locale":"fr-CH","numfmt":{"negativepctFmt":"-{n}%","pctFmt":"{n}%"}}

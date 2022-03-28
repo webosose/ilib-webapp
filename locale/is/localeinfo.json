@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"„","quotationEnd":"“","alternateQuotationStart":"‚","alternateQuotationEnd":"‘"},"language.name":"Icelandic","numfmt":{"decimalChar":",","groupChar":".","currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"}},"scripts":["Latn"],"locale":"is"}
+{"delimiter":{"alternateQuotationEnd":"‘","alternateQuotationStart":"‚","quotationEnd":"“","quotationStart":"„"},"language.name":"Icelandic","locale":"is","numfmt":{"currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"},"decimalChar":",","groupChar":"."},"scripts":["Latn"]}

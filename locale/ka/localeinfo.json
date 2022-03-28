@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"„","quotationEnd":"“","alternateQuotationStart":"«","alternateQuotationEnd":"»"},"language.name":"Georgian","numfmt":{"decimalChar":",","groupChar":" ","currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"}},"scripts":["Geor"],"locale":"ka"}
+{"delimiter":{"alternateQuotationEnd":"»","alternateQuotationStart":"«","quotationEnd":"“","quotationStart":"„"},"language.name":"Georgian","locale":"ka","numfmt":{"currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"},"decimalChar":",","groupChar":" "},"scripts":["Geor"]}

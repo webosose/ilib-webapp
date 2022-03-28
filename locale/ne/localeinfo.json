@@ -1,1 +1,1 @@
-{"language.name":"Nepali","numfmt":{"script":"Deva","secgroupSize":2,"digits":"०१२३४५६७८९","useNative":true},"scripts":["Deva"],"locale":"ne"}
+{"language.name":"Nepali","locale":"ne","numfmt":{"digits":"०१२३४५६७८९","script":"Deva","secgroupSize":2,"useNative":true},"scripts":["Deva"]}

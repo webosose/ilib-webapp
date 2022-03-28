@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"„","quotationEnd":"“","alternateQuotationEnd":"‘"},"language.name":"Serbian","numfmt":{"decimalChar":",","groupChar":".","currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"}},"scripts":["Cyrl","Latn"],"locale":"sr"}
+{"delimiter":{"alternateQuotationEnd":"‘","quotationEnd":"“","quotationStart":"„"},"language.name":"Serbian","locale":"sr","numfmt":{"currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"},"decimalChar":",","groupChar":"."},"scripts":["Cyrl","Latn"]}

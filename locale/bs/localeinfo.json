@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"„"},"language.name":"Bosnian","numfmt":{"decimalChar":",","groupChar":".","currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"},"pctFmt":"{n} %","negativepctFmt":"-{n} %"},"scripts":["Cyrl","Latn"],"locale":"bs"}
+{"delimiter":{"quotationStart":"„"},"language.name":"Bosnian","locale":"bs","numfmt":{"currencyFormats":{"common":"{n} {s}","commonNegative":"-{n} {s}"},"decimalChar":",","groupChar":".","negativepctFmt":"-{n} %","pctFmt":"{n} %"},"scripts":["Cyrl","Latn"]}

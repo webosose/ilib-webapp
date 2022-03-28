@@ -1,1 +1,1 @@
-{"numfmt":{"pctFmt":"{n}%","negativepctFmt":"-{n}%"},"locale":"bs-Cyrl"}
+{"locale":"bs-Cyrl","numfmt":{"negativepctFmt":"-{n}%","pctFmt":"{n}%"}}

@@ -1,1 +1,1 @@
-{"language.name":"Marathi","numfmt":{"script":"Deva","secgroupSize":2,"currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"},"digits":"०१२३४५६७८९","useNative":true},"scripts":["Deva","Modi"],"locale":"mr"}
+{"language.name":"Marathi","locale":"mr","numfmt":{"currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"},"digits":"०१२३४५६७८९","script":"Deva","secgroupSize":2,"useNative":true},"scripts":["Deva","Modi"]}

@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"「","quotationEnd":"」","alternateQuotationStart":"『","alternateQuotationEnd":"』"},"language.name":"Japanese","numfmt":{"currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"}},"scripts":["Jpan"],"locale":"ja"}
+{"delimiter":{"alternateQuotationEnd":"』","alternateQuotationStart":"『","quotationEnd":"」","quotationStart":"「"},"language.name":"Japanese","locale":"ja","numfmt":{"currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"}},"scripts":["Jpan"]}

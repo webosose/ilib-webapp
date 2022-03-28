@@ -1,1 +1,1 @@
-{"numfmt":{"script":"arabext","decimalChar":"٫","groupChar":"٬","exponential":"×۱۰^","currencyFormats":{"commonNegative":"‎-‎{s} {n}"},"negativenumFmt":"‎-‎{n}","negativepctFmt":"‎-‎{n}%","digits":"۰۱۲۳۴۵۶۷۸۹","useNative":true},"locale":"ur-IN"}
+{"locale":"ur-IN","numfmt":{"currencyFormats":{"commonNegative":"‎-‎{s} {n}"},"decimalChar":"٫","digits":"۰۱۲۳۴۵۶۷۸۹","exponential":"×۱۰^","groupChar":"٬","negativenumFmt":"‎-‎{n}","negativepctFmt":"‎-‎{n}%","script":"arabext","useNative":true}}

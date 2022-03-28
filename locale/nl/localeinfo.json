@@ -1,1 +1,1 @@
-{"delimiter":{"quotationStart":"‘","quotationEnd":"’"},"language.name":"Dutch","numfmt":{"decimalChar":",","groupChar":".","currencyFormats":{"commonNegative":"{s} -{n}"}},"scripts":["Latn"],"locale":"nl"}
+{"delimiter":{"quotationEnd":"’","quotationStart":"‘"},"language.name":"Dutch","locale":"nl","numfmt":{"currencyFormats":{"commonNegative":"{s} -{n}"},"decimalChar":",","groupChar":"."},"scripts":["Latn"]}

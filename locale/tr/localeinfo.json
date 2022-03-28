@@ -1,1 +1,1 @@
-{"language.name":"Turkish","numfmt":{"decimalChar":",","groupChar":".","currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"},"pctFmt":"%{n}","negativepctFmt":"-%{n}"},"scripts":["Latn","Arab"],"locale":"tr"}
+{"language.name":"Turkish","locale":"tr","numfmt":{"currencyFormats":{"common":"{s}{n}","commonNegative":"-{s}{n}"},"decimalChar":",","groupChar":".","negativepctFmt":"-%{n}","pctFmt":"%{n}"},"scripts":["Latn","Arab"]}
